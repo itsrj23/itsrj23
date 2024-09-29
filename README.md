@@ -13,7 +13,7 @@
 const fil = {
   pronouns: "he" | "him",
   code: [Java, C#, Python, SQL, Android Studio],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [AWS, GCP, Microsoft Azure, Kubernetes, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   Communities: {
                         YCOMPASS: "Vice President",
